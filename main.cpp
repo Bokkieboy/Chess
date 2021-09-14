@@ -20,7 +20,6 @@
 class Board : public sf::Drawable, public sf::Transformable
 {
 public:
-    
 };
 
 
